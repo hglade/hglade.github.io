@@ -1,0 +1,47 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+out/
+dist/
+build/
+*.vsix
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+
+# Cache and temporary files
+.cache/
+.tmp/
+temp/
+tmp/
+*.bak
+
+# Test artifacts
+coverage/
+.nyc_output/
+
+# Storybook artifacts
+storybook-static/
+
+# IDE settings
+.vscode/
+.idea/
+.kilocode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local workspace files
+/how-to.md
+.vite/
+*.local
+docker-volume/

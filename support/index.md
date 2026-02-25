@@ -18,8 +18,8 @@ If you'd like to support the development and maintenance of my open-source proje
 This is **not** a charitable donation for tax-deduction purposes.
 
 ### Ways to support
-- PayPal: https://paypal.me/okpv
-- Ko-fi (optional): https://ko-fi.com/cleverets
+- [PayPal](https://paypal.me/okpv)
+- [Ko-fi page](https://ko-fi.com/cleverets)
 
 ### Refunds
 Refunds and disputes are governed by the payment platform’s policies. If a payment was made by mistake, contact me and I’ll try to help within what the platform allows.
